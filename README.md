@@ -1,4 +1,4 @@
-# Car chat Bot
+# Car ChatBot
 Car chatbot built with: Node, Express and IBM Watson AI.
 
 ## How the app works
